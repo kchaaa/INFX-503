@@ -1,0 +1,21 @@
+.table {
+	margin-left: 600px;
+	margin-right: 600px;
+}
+
+.table p {
+	margin-bottom: 10px;
+}
+
+th {
+	text-align: left;
+}
+
+.video {
+	margin-left: 600px;
+	margin-right: 600px;
+}
+
+.video p {
+	margin-top: 10px;
+}

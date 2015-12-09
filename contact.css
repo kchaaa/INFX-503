@@ -1,0 +1,78 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+}
+
+body {
+	background-image: url("images/ballard1.jpg");
+}
+
+div {
+	display: block;
+}
+
+.logo {
+	float: left;
+}
+
+.logo a {
+	top-margin: 0.5em;
+	margin: 10px;
+	padding-right: 10px;
+}
+
+.logo img {
+	height: 70px;
+	width: 40px;
+	background: transparent;
+}
+
+.menu {
+	float: right;
+	margin: 10px;
+}
+
+.menu ul {
+	list-style-type: none;	
+	margin: 1em;
+    padding: 0px;
+    text-align: right;
+}
+
+.menu ul li {
+	text-decoration: none;
+	display: inline;
+	padding: 40px;
+}
+
+.menu ul li a {
+	color: black;
+	text-decoration: none;
+	background: transparent;
+}
+
+.menu ul li a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+.form {
+	display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.form form p label {
+	text-align: left;
+}
+
+.submit input { 
+    width: auto; 
+    padding: 9px 15px; 
+    background: #617798; 
+    border: 0; 
+    font-size: 14px; 
+    color: #FFFFFF; 
+}
